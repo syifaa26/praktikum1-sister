@@ -1,0 +1,17 @@
+docker build -t assyifah/from from
+docker build -t assyifah/run run
+docker build -t assyifah/command command
+docker build -t assyifah/label label
+docker build -t assyifah/add add
+docker build -t assyifah/copy copy
+docker build -t assyifah/ignore ignore
+docker build -t assyifah/expose expose
+docker build -t assyifah/env env
+docker build -t assyifah/volume volume
+docker build -t assyifah/workdir workdir
+docker build -t assyifah/user user
+docker build -t assyifah/argument argument
+docker build -t assyifah/argument-env argument-env
+docker build -t assyifah/healthcheck healthcheck
+docker build -t assyifah/entrypoint entrypoint
+docker build -t assyifah/multi-stage multi-stage
